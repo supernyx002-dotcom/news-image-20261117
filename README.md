@@ -1,3 +1,9 @@
+[![make.fun](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/supernyx002-dotcom/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/supernyx002-dotcom/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117)
+
+[make.fun bounty: news-image-20261117](https://make.fun/bounty/news-image-20261117)
+
 # The World in One Page — Tuesday, 17 November 2026
 
 make.fun bounty **news-image-20261117** · $250 · deadline Thu 19 Nov 2026 07:00 WIB (00:00 UTC)
